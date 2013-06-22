@@ -55,15 +55,6 @@ class Repository3
       def get
         raise NotImplementedError
       end
-
-      class InMemory < VideoStreamsRepository
-        # реализация методов абстрактного класса
-      end
-
-      class Backend < VideoStreamsRepository
-        # реализация методов абстрактного класса
-      end
-
     end
 
   end
