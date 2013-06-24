@@ -1,4 +1,4 @@
 code-examples
 =============
 
-Examples of my best code.
+Examples of my code.
